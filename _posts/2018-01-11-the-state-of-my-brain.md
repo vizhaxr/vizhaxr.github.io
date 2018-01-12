@@ -1,5 +1,6 @@
-#The Disrupted State of My Brain
-###Everything is about the change... over and over again.
+#The Disrupted State of Our Modern Brains
+##A short history of the tools that defined my career, and the danger of letting tools define you.
+###Fond memories of my Genesis: Lightwave 3D
 
 I still remember quite vividly the day I decided I wanted to become part of the world of digital media production. It was early 1992 and my father had introduced me to a man that had opened a small shop that sold specialized computer hardware for something that he believed was going to change the world... the Video Toaster. I won't get into get into too many specifics regarding the Video Toaster, but the main thing that is relevant to this story is that this product opened a door that altered the course of my life. It was a door that I would walk through many more times as my career took off and one that would take me to places I never imagined, it was a door called _"Disruption"_.    
 
@@ -7,7 +8,25 @@ At that very young stage in my life, disruption was exciting. I felt like I was 
 
 Later that same year I found myself doing flying logo work for a few companies, and before long I was able to quit my full-time job at the local pizza shack and start working as a professional 3D animator. It was a completely unexpected transition. In just under a year my life was totally transformed. This backstory is important to the narrative that follows. It was just the first of many subsequent cycles of discovery, adaptation, and reinvention in my life. Little did I know that the field I was entering was ever-changing. I was going down a rabbit hole, and where that rabbit hole would lead was to yet another rabbit hole.
 
-6 years later I had positioned myself quite comfortably as one of top 3D artists in the area. As it had turned out, what I had become fairly good at were technical animations. A marketing person or training manager would approach me to help design animations of products and processes that where tough to visualize, like the way toner attaches to a piece of paper with the photoelectric effect inside of a copier or the way a laser might cut into a lens during cataracts surgery. I found myself specializing in telling stories that needed to be "translated" from one voice to another. 3D animations were an ideal tool for telling engineering stories to consumers, service technicians, and investors.
+6 years later I had positioned myself quite comfortably as one of the top 3D artists in the area. As it had turned out, what I had become fairly good at were technical animations. A marketing person or training manager would approach me to help design animations of products and processes that where tough to visualize, like the way toner attaches to a piece of paper with the photoelectric effect inside of a copier, or the way a laser might cut into a lens during cataracts surgery. I found myself specializing in telling stories that needed to be "translated" from one voice to another. 3D animations were an ideal tool for telling complex stories about things. My identity was formed, or at least I thought it was. I _thought_ I was a 3D animator. I had found my niche and things felt very comfortable.
+
+###One transformation inevitably begets the next: The Multimedia Age picks up steam
+
+Just when I thought my transformation was complete, I started to realize it was all just a germination stage. A seed had been planted and the conditions proved to be ideal for growth. As my roots began to spread out and my eyes began to poke out of the ground I started seeing that the world I was in was a vast and wonderous place. I wasn't the only one changing. Everything around me was also evolving. Clients started wanting better ways to tell their stories. Stories were becoming interactive. It wasn't enough to watch the unfolding of a story in linear streams anymore, viewers wanted more. We were graduating from stop, play, rewind, and fast-forward along a one dimensional line, to narratives that were suddenly multi-dimensional. We wanted to be able to dig deeper, view things in smaller pieces and in the order that we wanted. We also started combining different media together. Video, audio, graphics, and long-form text all were starting to work together in powerful ways. And it wasn't just about picking what to see and when, but it was also about choosing _how_ to view things. For instance, instead of just showing a pre-rendered sequence of a product rotating around, people wanted to move the product around themselves and rotate it to the angle they wanted to view it in. The viewer was starting to yearn for a more engaging experience. So, I started finding new tools to help me do these things. The tool of choice for these kind of experiences was something called Macromedia Director.
+
+At the that time in the late 90's Director was becoming really popular as a platform to easily create multimedia training materials. You could read some on-screen instructions, watch a video, and then take an interactive quiz to see how much was understood and then present a grade to show how you did. All of this was enabled in Director using the metaphor of an interactive timeline controlled by a set of scripts that would interpret user inputs as actions to jump around that timeline. As it turns out, 3D animators had a leg up on most people trying to learn this kind of tool. 3D artists were already well versed in timeline navigation. More specifically, 3D animators were well versed at seeing every scene as a group of objects with relationships. The nature of those relationships were captured as keyframes (snapshots) and any series of keyframes artfully crafted could then be rendered by the computer to tell us a story. Director did the same thing, but gave us hooks to allow the viewer to pick the order of the keyframes when they viewed the show. 
+
+Adding this new layer of interactivity on top of our animations, also added a new layer of complexity to our tools. This is when I was forced to add programming as part of my everyday life. In full disclosure, I did already have a familiarity with programming, but I hadn't applied those skills in years. I was trained as a software analyst shortly after I joined the Army Reserves directly out of high school. At that time, we were trained to program in a language called Ada. Unfortunately, I never had an opportunity to apply my knowledge of that language outside of training school. The circles I worked in had little use for Ada, and the reserve unit I was assigned to never asked me to program a thing. That being said though, the fundamentals I had learned years before proved to serve me well as I rediscovered the world of coding. This experience also revealed a very important lessons to me:
+>Knowing your tools is very important, but the lifespan of a tool is fleeting. If you know how to use a tool, but have no use-case for that tool, then it is no longer a tool. It is just something that takes up space on whatever real or metaphorical shelf we choose to leave it on.
+
+
+
+
+
+
+
+
+
 
 
 
